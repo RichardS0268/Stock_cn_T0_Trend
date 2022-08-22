@@ -1,5 +1,6 @@
 # Stock_cn_T0_Trend
-Here are some trails of trend strategies in Stock_cn T0 trading simulation during Causis Intern. These strategies are relative raw and not carefully crafted. They are not used by Causis in the end. So I extract some sentitive information from the code (including Causis's data, api ,etc.) and public them for mutual learning
+### Description 👋🏻
+Here are some trails of trend strategies in Stock_cn T0 trading simulation during my intern. These strategies are relative raw and not carefully crafted. They are not approved and used by the company in the end. So I extract some sentitive information from the code (including company's data, api ,etc.) and public them for mutual learning
 
 ## V1.0.1 Tri-Glod Fork Strategy
 
