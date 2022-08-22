@@ -1,6 +1,6 @@
 # Stock_cn_T0_Trend
 ### Description 👋🏻
-Here are some trails of trend strategies in Stock_cn T0 trading simulation during my intern. These strategies are relative raw and not carefully crafted. They are not approved and used by the company in the end. So I extract some sentitive information from the code (including company's data, api ,etc.) and public them for mutual learning.
+Here are some trails of trend strategies in Stock_cn T0 trading simulation during my intern. These strategies are relative raw and not carefully crafted. They are not approved and used by the company in the end. So I wipe out some sentitive information from the code (including company's data, api ,etc.) and public them for mutual learning.
 
 ## V1.0.1 Tri-Glod Fork Strategy
 
