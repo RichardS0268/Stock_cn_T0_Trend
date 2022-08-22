@@ -64,7 +64,7 @@
 
 2. Win Rate
 
-​		![](https://github.com/RichardS0268/Stock_cn_T0_Trend/blob/main/imgs/V1.0.2_win-loss.png)
+	![](https://github.com/RichardS0268/Stock_cn_T0_Trend/blob/main/imgs/V1.0.2_win-loss.png)
 
 3. Technical Analysis
 
